@@ -21,7 +21,6 @@ In this repository I am going to put summaries of papers and ideas that might le
 
 A majority of non-technical emails include seemingly unnecessary "uncivil features". Are programmers rude by nature? 🤔
 
-### [“Did You Miss My Comment or What?”
-Understanding Toxicity in Open Source Discussions](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/ckaestne/pdf/icse22_toxicity.pdf)
+### [“Did You Miss My Comment or What?” Understanding Toxicity in Open Source Discussions](https://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/ckaestne/pdf/icse22_toxicity.pdf)
 
 ### [How heated is it? Understanding GitHub locked issues](https://arxiv.org/abs/2204.00155)
