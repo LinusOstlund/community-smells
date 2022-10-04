@@ -14,6 +14,12 @@ In this repository I am going to put summaries of papers and ideas that might le
 # TODO
 * Read on science regarding "online comments" (eg [this paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12104), or [this](https://arxiv.org/pdf/1809.00289.pdf) and [this](https://www.tandfonline.com/doi/abs/10.1080/10510974.2017.1397038))
 
+* [Litterature review](https://www.sciencedirect.com/science/article/pii/S0950584922001872?dgcid=rss_sd_all) setting up a taxonomy and calling for more reserach on the field. Good quote: "Community smells are sociotechnical anti-patterns and one source of social debt."
+
+* Investigate the keyword "social etiquette" of the techworld.
+
+* [An attempt to map users from github issues](https://elib.uni-stuttgart.de/handle/11682/10641). Sounds interesting. 
+
 # Articles 
 
 ### [The "Shut the f** k up" Phenomenon: Characterizing Incivility in Open Source Code Review Discussions](https://dl.acm.org/doi/abs/10.1145/3479497)
